@@ -394,7 +394,7 @@ body {
   right: 0;
   bottom: 0;
   background: url('/imgs/table-bg.jpg');
-  filter: blur(0px); /* Blur effect */
+  /* Blur effect */
   z-index: 0; 
 }
 .info-text {
