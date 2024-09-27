@@ -360,9 +360,20 @@ body {
   color: #fff; /* White text color */
   /* Margin for spacing */
   width: 100%;
+  font-weight: bold;
   
   padding: 10px; /* Padding inside the header */
-  background-color: #007bff; /* Blue background */
+  background-color: #2787ee; /* Blue background */
+}
+.header-text1 {
+  font-size: 16px; /* Adjust header font size */
+   /* Make header text bold */
+  color: #fff; /* White text color */
+  /* Margin for spacing */
+  width: 100%;
+  font-weight: bold;
+  padding: 10px; /* Padding inside the header */
+  background-color: #052e5a; /* Blue background */
 }
 .info-box {
   background-color: #FFD700; /* Gold background for the info box */
